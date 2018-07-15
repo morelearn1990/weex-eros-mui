@@ -1,0 +1,36 @@
+{
+  "name": "weex-eros-mui",
+  "version": "0.0.1",
+  "description": "a weex-eros demo for mui",
+  "main": "index.js",
+  "keywords": [
+    "weex"
+  ],
+  "author": "Zero<a2192466@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@antv/f2": "^3.1.12",
+    "bui-weex": "^0.2.5",
+    "eros-widget": "^1.0.2-beta.1",
+    "gcanvas.js": "0.0.8",
+    "shader-program-compiler": "0.0.3",
+    "weex-ui": "^0.6.0beta-2",
+    "wolfy87-eventemitter": "^5.2.4"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-eslint": "^8.2.2",
+    "babel-plugin-import": "^1.6.7",
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "babel-plugin-transform-runtime": "~6.23.0",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "babel-preset-env": "~1.5.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.22.0",
+    "bindingx-parser": "0.0.x",
+    "eslint": "^4.17.0",
+    "eslint-plugin-html": "^4.0.2",
+    "eslint-plugin-vue": "^4.3.0"
+  }
+}
